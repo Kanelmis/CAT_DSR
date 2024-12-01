@@ -19,14 +19,14 @@ pip install speechbrain
 import speechbrain as sb
 ```
 
-### Paper reproduction
+## Paper reproduction
 ![Methodology Overview](https://github.com/user-attachments/assets/777c5bb5-3c15-4fc7-8770-fb33a81473b6)
 
-#### Data configuration
+### Data configuration
 1. Download [UASPEECH](https://ieee-dataport.org/documents/uaspeech) dataset & [TORGO](https://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html) dataset.
 2. Refer to the "EXPERIMENTS" section of our paper to partition the data and configure metadata(*.csv) according to [Speechbrain](https://github.com/speechbrain/speechbrain) format. Or you can look up appropriate partition CSV files from the folder ```Partitions```.
 
-#### Training SI Dysarthric Speech Recognition (DSR) model
+### Training SI Dysarthric Speech Recognition (DSR) model
 1. Modify the csv files in ```Partitions``` to adjust the audio path to your data storage
 2. Modify the parameters in the ```recipes/hparams/conformer_small.yaml``` configuration file, especially ```output_folder```, ```data_folder```, ```train_csv```, ```valid_csv```, ```test_csv```, ```number_of_epochs```, ```freeze_num_encoder_layers``` and ```freeze_num_decoder_layers```. We also provided example of P3 to showcase how we configure the training. 
 3. Training instructions:
@@ -40,7 +40,7 @@ if you want to run it on the **test sets** only, you can add the flag --test_onl
 ```python
 python train.py hparams/conformer_small.yaml --test_only
 ```
-##### Training Pipeline
+#### Training Pipeline
 ![transfer_learning_pipelines](https://github.com/user-attachments/assets/0bd7e6bd-07b5-4d79-a926-534acf90b80e)
 *  Pipeline 1 (P1): The base model was fine-tuned on UA-Speech control data and then TORGO control data, resulting in Control 1.
 *  Pipeline 2 (P2): The base model was fine-tuned on TORGO control and then UA-Speech control, resulting in Control 2.
@@ -48,7 +48,7 @@ python train.py hparams/conformer_small.yaml --test_only
 *  Pipeline 4 (P4): The base model was fine-tuned on the UA-Speech control to create Control 4.
 *  Pipeline 5 (P5): The base model was fine-tuned on the TORGO control data to build Control 5.
 
-##### Cross-Dataset Validation 
+### Cross-Dataset Validation 
 We tested the model performance by conducting **cross-dataset validation**.
 1. SI dysarthric models trained on UASPEECH were tested on TORGO dataset's isolated speech and continuous speech seperately
 2. SI dysarthric models trained on TROGO were tested on entire UASPEECH.
