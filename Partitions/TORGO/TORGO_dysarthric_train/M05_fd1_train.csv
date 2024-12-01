@@ -1,0 +1,463 @@
+ID,duration,wav,spk_id,wrd
+M05_1_0005_wav_arrayMic,2.6935,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0005.wav,M05,SWORE
+M05_1_0006_wav_arrayMic,2.229125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0006.wav,M05,TRAIN
+M05_1_0007_wav_arrayMic,0.97525,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0007.wav,M05,UP
+M05_1_0008_wav_arrayMic,2.322,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0008.wav,M05,UP
+M05_1_0009_wav_arrayMic,20.48,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0009.wav,M05,TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON OUR SMALL ORGAN
+M05_1_0010_wav_arrayMic,15.3251875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0010.wav,M05,GIVING THOSE WHO OBSERVE HIM A PRONOUNCED FEELING OF THE UTMOST RESPECT
+M05_1_0012_wav_arrayMic,3.018625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0012.wav,M05,SPARK
+M05_1_0013_wav_arrayMic,2.229125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0013.wav,M05,RACE
+M05_1_0015_wav_arrayMic,11.284875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0015.wav,M05,WELL HE IS NEARLY NINETY-THREE YEARS OLD
+M05_1_0017_wav_arrayMic,2.414875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0017.wav,M05,SHEET
+M05_1_0018_wav_arrayMic,3.2508125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0018.wav,M05,CHAIR
+M05_1_0020_wav_arrayMic,14.9071875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0020.wav,M05,EXCEPT IN THE WINTER WHEN THE OOZE OR SNOW OR ICE PREVENTS
+M05_1_0022_wav_arrayMic,2.0898125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0022.wav,M05,STORM
+M05_1_0024_wav_arrayMic,3.1115,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0024.wav,M05,DAGGER
+M05_1_0025_wav_arrayMic,3.9009375,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0025.wav,M05,FLOOR
+M05_1_0026_wav_arrayMic,3.3436875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0026.wav,M05,BUBBLE
+M05_1_0027_wav_arrayMic,13.235375,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0027.wav,M05,WE HAVE OFTEN URGED HIM TO WALK MORE AND SMOKE LESS
+M05_1_0029_wav_arrayMic,2.229125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0029.wav,M05,HORN
+M05_1_0030_wav_arrayMic,1.5325,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0030.wav,M05,SLIP
+M05_1_0031_wav_arrayMic,3.3436875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0031.wav,M05,SLIP
+M05_1_0033_wav_arrayMic,3.8080625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0033.wav,M05,FORM
+M05_1_0035_wav_arrayMic,3.6223125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0035.wav,M05,DOWN
+M05_1_0036_wav_arrayMic,3.66875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0036.wav,M05,FEED
+M05_1_0039_wav_arrayMic,2.4613125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0039.wav,M05,TIP
+M05_1_0041_wav_arrayMic,3.66875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0041.wav,M05,ONE
+M05_1_0042_wav_arrayMic,3.66875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0042.wav,M05,STUBBLE
+M05_1_0043_wav_arrayMic,2.6470625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0043.wav,M05,FEET
+M05_1_0044_wav_arrayMic,3.575875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0044.wav,M05,STORE
+M05_1_0046_wav_arrayMic,4.551125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0046.wav,M05,RAKE
+M05_1_0047_wav_arrayMic,0.3250625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0047.wav,M05,WARM
+M05_1_0048_wav_arrayMic,2.322,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0048.wav,M05,WARM
+M05_1_0049_wav_arrayMic,3.1579375,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0049.wav,M05,STORM
+M05_1_0050_wav_arrayMic,2.13625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0050.wav,M05,WEED
+M05_1_0053_wav_arrayMic,2.4613125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0053.wav,M05,JACKET
+M05_1_0056_wav_arrayMic,11.099125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0056.wav,M05,THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+M05_1_0057_wav_arrayMic,11.192,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0057.wav,M05,HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY
+M05_1_0059_wav_arrayMic,2.6470625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0059.wav,M05,RANGE
+M05_1_0060_wav_arrayMic,3.4365625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0060.wav,M05,SWARM
+M05_1_0061_wav_arrayMic,7.058875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0061.wav,M05,USUALLY MINUS SEVERAL BUTTONS
+M05_1_0062_wav_arrayMic,9.5201875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0062.wav,M05,YOU WISHED TO KNOW ALL ABOUT MY GRANDFATHER
+M05_1_0063_wav_arrayMic,1.3003125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0063.wav,M05,BUG
+M05_1_0065_wav_arrayMic,3.8080625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0065.wav,M05,FARM
+M05_1_0066_wav_arrayMic,3.390125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0066.wav,M05,RIGHT
+M05_1_0067_wav_arrayMic,2.4613125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0067.wav,M05,GLOW
+M05_1_0068_wav_arrayMic,3.204375,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0068.wav,M05,FEE
+M05_1_0069_wav_arrayMic,1.8111875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0069.wav,M05,SIP
+M05_1_0070_wav_arrayMic,2.1826875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0070.wav,M05,PARK
+M05_1_0073_wav_arrayMic,2.87925,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0073.wav,M05,SIP
+M05_1_0074_wav_arrayMic,14.48925,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0074.wav,M05,WHEN HE SPEAKS HIS VOICE IS JUST A BIT CRACKED AND QUIVERS A TRIFLE
+M05_1_0075_wav_arrayMic,3.3436875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0075.wav,M05,TROUBLE
+M05_1_0077_wav_arrayMic,9.7988125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0077.wav,M05,YET HE STILL THINKS AS SWIFTLY AS EVER
+M05_1_0078_wav_arrayMic,9.0558125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0078.wav,M05,DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT
+M05_1_0079_wav_arrayMic,2.229125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0079.wav,M05,BEAT
+M05_1_0080_wav_arrayMic,2.0898125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0080.wav,M05,FOR
+M05_1_0081_wav_arrayMic,2.4613125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0081.wav,M05,DOUBLE
+M05_1_0082_wav_arrayMic,3.4365625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0082.wav,M05,BAT
+M05_1_0083_wav_arrayMic,5.108375,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0083.wav,M05,WARM
+M05_1_0085_wav_arrayMic,2.786375,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0085.wav,M05,TWO
+M05_1_0088_wav_arrayMic,2.0898125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0088.wav,M05,RAGE
+M05_1_0090_wav_arrayMic,1.439625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0090.wav,M05,TRAIT
+M05_1_0092_wav_arrayMic,2.87925,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0092.wav,M05,GOAT
+M05_1_0093_wav_arrayMic,2.5541875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0093.wav,M05,NO
+M05_1_0094_wav_arrayMic,5.712125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0094.wav,M05,BUT HE ALWAYS ANSWERS BANANA OIL
+M05_1_0095_wav_arrayMic,4.133125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0095.wav,M05,DUG
+M05_1_0096_wav_arrayMic,2.87925,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0096.wav,M05,BORN
+M05_1_0097_wav_arrayMic,3.204375,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0097.wav,M05,JAGGED
+M05_1_0099_wav_arrayMic,3.1579375,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0099.wav,M05,RATE
+M05_1_0100_wav_arrayMic,3.4365625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0100.wav,M05,RAID
+M05_1_0101_wav_arrayMic,10.9598125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0101.wav,M05,GRANDFATHER LIKES TO BE MODERN IN HIS LANGUAGE
+M05_1_0103_wav_arrayMic,3.7151875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0103.wav,M05,SWARM
+M05_1_0104_wav_arrayMic,10.449,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0104.wav,M05,SHE HAD YOUR DARK SUIT IN GREASY WASH WATER ALL YEAR
+M05_1_0105_wav_arrayMic,3.018625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0105.wav,M05,CORN
+M05_1_0106_wav_arrayMic,2.0898125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0106.wav,M05,SHARE
+M05_1_0107_wav_arrayMic,3.2508125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0107.wav,M05,TRACE
+M05_1_0108_wav_arrayMic,4.1795625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0108.wav,M05,STICKS
+M05_1_0110_wav_arrayMic,3.575875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0110.wav,M05,KNOW
+M05_1_0111_wav_arrayMic,4.365375,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0111.wav,M05,BETA
+M05_1_0112_wav_arrayMic,2.87925,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0112.wav,M05,HAIR
+M05_1_0113_wav_arrayMic,3.018625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0113.wav,M05,MEAT
+M05_1_0114_wav_arrayMic,2.5541875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0114.wav,M05,BEAT
+M05_1_0115_wav_arrayMic,4.5975625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0115.wav,M05,BEAT
+M05_1_0116_wav_arrayMic,3.7151875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0116.wav,M05,ALPHA
+M05_1_0117_wav_arrayMic,3.390125,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0117.wav,M05,GADGET
+M05_1_0119_wav_arrayMic,4.2260625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0119.wav,M05,GROW
+M05_1_0120_wav_arrayMic,1.4860625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0120.wav,M05,THE
+M05_1_0122_wav_arrayMic,4.5046875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0122.wav,M05,FEED
+M05_1_0126_wav_arrayMic,3.018625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0126.wav,M05,AIR
+M05_1_0127_wav_arrayMic,3.3436875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0127.wav,M05,KNEE
+M05_1_0129_wav_arrayMic,2.87925,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0129.wav,M05,GO
+M05_1_0130_wav_arrayMic,2.9256875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_arrayMic/0130.wav,M05,DARK
+M05_1_0005_wav_headMic,2.935,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0005.wav,M05,SWORE
+M05_1_0006_wav_headMic,2.55,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0006.wav,M05,TRAIN
+M05_1_0007_wav_headMic,1.29,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0007.wav,M05,UP
+M05_1_0008_wav_headMic,2.615,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0008.wav,M05,UP
+M05_1_0009_wav_headMic,20.85,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0009.wav,M05,TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON OUR SMALL ORGAN
+M05_1_0010_wav_headMic,16.26,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0010.wav,M05,GIVING THOSE WHO OBSERVE HIM A PRONOUNCED FEELING OF THE UTMOST RESPECT
+M05_1_0012_wav_headMic,2.94,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0012.wav,M05,SPARK
+M05_1_0013_wav_headMic,2.775,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0013.wav,M05,RACE
+M05_1_0015_wav_headMic,10.8200625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0015.wav,M05,WELL HE IS NEARLY NINETY-THREE YEARS OLD
+M05_1_0017_wav_headMic,2.635,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0017.wav,M05,SHEET
+M05_1_0018_wav_headMic,2.86,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0018.wav,M05,CHAIR
+M05_1_0020_wav_headMic,15.4,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0020.wav,M05,EXCEPT IN THE WINTER WHEN THE OOZE OR SNOW OR ICE PREVENTS
+M05_1_0022_wav_headMic,3.4800625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0022.wav,M05,STORM
+M05_1_0024_wav_headMic,3.0750625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0024.wav,M05,DAGGER
+M05_1_0025_wav_headMic,3.645,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0025.wav,M05,FLOOR
+M05_1_0026_wav_headMic,3.165,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0026.wav,M05,BUBBLE
+M05_1_0027_wav_headMic,13.3550625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0027.wav,M05,WE HAVE OFTEN URGED HIM TO WALK MORE AND SMOKE LESS
+M05_1_0029_wav_headMic,2.395,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0029.wav,M05,HORN
+M05_1_0030_wav_headMic,2.29,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0030.wav,M05,SLIP
+M05_1_0031_wav_headMic,3.03,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0031.wav,M05,SLIP
+M05_1_0033_wav_headMic,3.7,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0033.wav,M05,FORM
+M05_1_0035_wav_headMic,3.01,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0035.wav,M05,DOWN
+M05_1_0036_wav_headMic,3.34,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0036.wav,M05,FEED
+M05_1_0039_wav_headMic,2.295,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0039.wav,M05,TIP
+M05_1_0041_wav_headMic,3.265,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0041.wav,M05,ONE
+M05_1_0042_wav_headMic,3.53,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0042.wav,M05,STUBBLE
+M05_1_0043_wav_headMic,2.675,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0043.wav,M05,FEET
+M05_1_0044_wav_headMic,3.535,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0044.wav,M05,STORE
+M05_1_0046_wav_headMic,4.55,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0046.wav,M05,RAKE
+M05_1_0047_wav_headMic,2.2400625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0047.wav,M05,WARM
+M05_1_0048_wav_headMic,2.625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0048.wav,M05,WARM
+M05_1_0049_wav_headMic,3.15,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0049.wav,M05,STORM
+M05_1_0050_wav_headMic,2.6,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0050.wav,M05,WEED
+M05_1_0053_wav_headMic,2.865,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0053.wav,M05,JACKET
+M05_1_0056_wav_headMic,12.335,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0056.wav,M05,THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+M05_1_0057_wav_headMic,10.99,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0057.wav,M05,HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY
+M05_1_0059_wav_headMic,3.88,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0059.wav,M05,RANGE
+M05_1_0060_wav_headMic,3.63,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0060.wav,M05,SWARM
+M05_1_0061_wav_headMic,7.205,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0061.wav,M05,USUALLY MINUS SEVERAL BUTTONS
+M05_1_0062_wav_headMic,11.595,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0062.wav,M05,YOU WISHED TO KNOW ALL ABOUT MY GRANDFATHER
+M05_1_0063_wav_headMic,1.29,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0063.wav,M05,BUG
+M05_1_0065_wav_headMic,3.55,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0065.wav,M05,FARM
+M05_1_0066_wav_headMic,3.265,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0066.wav,M05,RIGHT
+M05_1_0067_wav_headMic,2.675,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0067.wav,M05,GLOW
+M05_1_0068_wav_headMic,3.305,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0068.wav,M05,FEE
+M05_1_0069_wav_headMic,2.0850625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0069.wav,M05,SIP
+M05_1_0070_wav_headMic,2.135,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0070.wav,M05,PARK
+M05_1_0073_wav_headMic,2.865,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0073.wav,M05,SIP
+M05_1_0074_wav_headMic,16.0000625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0074.wav,M05,WHEN HE SPEAKS HIS VOICE IS JUST A BIT CRACKED AND QUIVERS A TRIFLE
+M05_1_0075_wav_headMic,3.455,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0075.wav,M05,TROUBLE
+M05_1_0077_wav_headMic,10.145,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0077.wav,M05,YET HE STILL THINKS AS SWIFTLY AS EVER
+M05_1_0078_wav_headMic,11.105,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0078.wav,M05,DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT
+M05_1_0079_wav_headMic,2.28,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0079.wav,M05,BEAT
+M05_1_0080_wav_headMic,2.325,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0080.wav,M05,FOR
+M05_1_0081_wav_headMic,3.24,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0081.wav,M05,DOUBLE
+M05_1_0082_wav_headMic,3.12,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0082.wav,M05,BAT
+M05_1_0083_wav_headMic,4.305,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0083.wav,M05,WARM
+M05_1_0085_wav_headMic,3.055,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0085.wav,M05,TWO
+M05_1_0088_wav_headMic,2.5900625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0088.wav,M05,RAGE
+M05_1_0090_wav_headMic,3.49,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0090.wav,M05,TRAIT
+M05_1_0092_wav_headMic,2.84,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0092.wav,M05,GOAT
+M05_1_0093_wav_headMic,2.435,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0093.wav,M05,NO
+M05_1_0094_wav_headMic,8.145,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0094.wav,M05,BUT HE ALWAYS ANSWERS BANANA OIL
+M05_1_0095_wav_headMic,3.735,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0095.wav,M05,DUG
+M05_1_0096_wav_headMic,2.73,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0096.wav,M05,BORN
+M05_1_0097_wav_headMic,3.745,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0097.wav,M05,JAGGED
+M05_1_0099_wav_headMic,3.785,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0099.wav,M05,RATE
+M05_1_0100_wav_headMic,3.305,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0100.wav,M05,RAID
+M05_1_0101_wav_headMic,12.465,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0101.wav,M05,GRANDFATHER LIKES TO BE MODERN IN HIS LANGUAGE
+M05_1_0103_wav_headMic,3.4850625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0103.wav,M05,SWARM
+M05_1_0104_wav_headMic,12.5400625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0104.wav,M05,SHE HAD YOUR DARK SUIT IN GREASY WASH WATER ALL YEAR
+M05_1_0105_wav_headMic,3.075,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0105.wav,M05,CORN
+M05_1_0106_wav_headMic,2.43,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0106.wav,M05,SHARE
+M05_1_0107_wav_headMic,3.195,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0107.wav,M05,TRACE
+M05_1_0108_wav_headMic,3.36,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0108.wav,M05,STICKS
+M05_1_0110_wav_headMic,3.165,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0110.wav,M05,KNOW
+M05_1_0111_wav_headMic,3.97,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0111.wav,M05,BETA
+M05_1_0112_wav_headMic,2.855,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0112.wav,M05,HAIR
+M05_1_0113_wav_headMic,2.86,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0113.wav,M05,MEAT
+M05_1_0114_wav_headMic,2.26,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0114.wav,M05,BEAT
+M05_1_0115_wav_headMic,4.955,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0115.wav,M05,BEAT
+M05_1_0116_wav_headMic,3.27,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0116.wav,M05,ALPHA
+M05_1_0117_wav_headMic,2.805,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0117.wav,M05,GADGET
+M05_1_0119_wav_headMic,4.675,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0119.wav,M05,GROW
+M05_1_0120_wav_headMic,1.35,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0120.wav,M05,THE
+M05_1_0122_wav_headMic,4.3,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0122.wav,M05,FEED
+M05_1_0123_wav_headMic,3.06,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0123.wav,M05,RAIN
+M05_1_0126_wav_headMic,2.565,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0126.wav,M05,AIR
+M05_1_0127_wav_headMic,2.62,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0127.wav,M05,KNEE
+M05_1_0129_wav_headMic,2.75,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0129.wav,M05,GO
+M05_1_0130_wav_headMic,3.105,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session1/wav_headMic/0130.wav,M05,DARK
+M05_2_0001_wav_headMic,10.755,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0001.wav,M05,TODAY'S DATE FEBRUARY 13TH
+M05_2_0002_wav_headMic,7.635,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0002.wav,M05,WHERE WERE YOU WHILE WE WERE AWAY?
+M05_2_0003_wav_headMic,1.9550625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0003.wav,M05,BOOT
+M05_2_0004_wav_headMic,2.575,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0004.wav,M05,SLEEP
+M05_2_0005_wav_headMic,3.17,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0005.wav,M05,EXPLORE
+M05_2_0007_wav_headMic,2.1,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0007.wav,M05,SIGH
+M05_2_0008_wav_headMic,8.93,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0008.wav,M05,I FEEL I CAN PLAY THIS WEEKEND
+M05_2_0009_wav_headMic,2.47,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0009.wav,M05,ROOT
+M05_2_0011_wav_headMic,2.34,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0011.wav,M05,CHARLIE
+M05_2_0012_wav_headMic,2.605,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0012.wav,M05,KNOW
+M05_2_0013_wav_headMic,6.87,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0013.wav,M05,HE WILL ALLOW A RARE LIE
+M05_2_0014_wav_headMic,2.9850625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0014.wav,M05,SUIT
+M05_2_0016_wav_headMic,2.36,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0016.wav,M05,WHOOP
+M05_2_0017_wav_headMic,3.12,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0017.wav,M05,PRIOR
+M05_2_0018_wav_headMic,3.71,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0018.wav,M05,PRIOR
+M05_2_0019_wav_headMic,6.035,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0019.wav,M05,THIS WAS EASY FOR US
+M05_2_0020_wav_headMic,2.37,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0020.wav,M05,NO
+M05_2_0021_wav_headMic,2.545,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0021.wav,M05,KNOT
+M05_2_0023_wav_headMic,2.655,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0023.wav,M05,ROCKS
+M05_2_0024_wav_headMic,2.905,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0024.wav,M05,AIR
+M05_2_0026_wav_headMic,9.34,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0026.wav,M05,MY SISTER MADE THE FLOWERED CURTAINS
+M05_2_0027_wav_headMic,11.495,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0027.wav,M05,ONE VALIDATED ACTS OF SCHOOL DISTRICTS
+M05_2_0028_wav_headMic,7.1950625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0028.wav,M05,YOU'RE USED TO BEING ON THE FIELD
+M05_2_0029_wav_headMic,2.775,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0029.wav,M05,PAT
+M05_2_0032_wav_headMic,2.89,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0032.wav,M05,DEER
+M05_2_0034_wav_headMic,2.53,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0034.wav,M05,SINGLE
+M05_2_0035_wav_headMic,2.46,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0035.wav,M05,MUCH
+M05_2_0037_wav_headMic,2.175,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0037.wav,M05,GROUP
+M05_2_0038_wav_headMic,15.865,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0038.wav,M05,IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID
+M05_2_0039_wav_headMic,3.39,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0039.wav,M05,FATE
+M05_2_0040_wav_headMic,3.01,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0040.wav,M05,SPRINKLE
+M05_2_0041_wav_headMic,3.39,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0041.wav,M05,PILE
+M05_2_0042_wav_headMic,13.8600625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0042.wav,M05,MOTHER SEWS YELLOW GINGHAM APRONS
+M05_2_0043_wav_headMic,8.37,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0043.wav,M05,MOTHER SEWS YELLOW GINGHAM APRONS
+M05_2_0044_wav_headMic,3.195,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0044.wav,M05,FOUR
+M05_2_0046_wav_headMic,2.955,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0046.wav,M05,SIGH
+M05_2_0047_wav_headMic,2.885,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0047.wav,M05,ROCK
+M05_2_0048_wav_headMic,2.585,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0048.wav,M05,PAY
+M05_2_0049_wav_headMic,8.885,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0049.wav,M05,THE ISLANDS ARE SPARSELY POPULATED
+M05_2_0051_wav_headMic,11.44,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0051.wav,M05,BOTH FIGURES WOULD GO HIGHER IN LATER YEARS
+M05_2_0052_wav_headMic,1.885,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0052.wav,M05,AREA
+M05_2_0053_wav_headMic,3.375,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0053.wav,M05,AREA
+M05_2_0054_wav_headMic,2.555,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0054.wav,M05,MERE
+M05_2_0055_wav_headMic,9.0600625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0055.wav,M05,WHY YELL OR WORRY OVER SILLY ITEMS?
+M05_2_0056_wav_headMic,9.215,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0056.wav,M05,WHY YELL OR WORRY OVER SILLY ITEMS?
+M05_2_0057_wav_headMic,7.88,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0057.wav,M05,WE GATHERED SHELLS ON THE BEACH
+M05_2_0058_wav_headMic,2.485,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0058.wav,M05,HEAR
+M05_2_0059_wav_headMic,2.31,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0059.wav,M05,POT
+M05_2_0061_wav_headMic,2.295,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0061.wav,M05,BAT
+M05_2_0063_wav_headMic,2.63,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0063.wav,M05,OF
+M05_2_0064_wav_headMic,2.665,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0064.wav,M05,FLOOR
+M05_2_0065_wav_headMic,2.835,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0065.wav,M05,THIGH
+M05_2_0067_wav_headMic,3.405,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0067.wav,M05,STEER
+M05_2_0068_wav_headMic,9.5,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0068.wav,M05,I TRIED TO TELL PEOPLE IN THE COMMUNITY
+M05_2_0069_wav_headMic,3.99,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0069.wav,M05,CYCLE
+M05_2_0070_wav_headMic,2.665,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0070.wav,M05,HATE
+M05_2_0072_wav_headMic,2.82,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0072.wav,M05,DOT
+M05_2_0073_wav_headMic,3.275,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0073.wav,M05,ATE
+M05_2_0074_wav_headMic,3.605,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0074.wav,M05,WRITE
+M05_2_0075_wav_headMic,3.275,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0075.wav,M05,FRUIT
+M05_2_0076_wav_headMic,8.735,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0076.wav,M05,SHE IS THINNER THAN I AM
+M05_2_0078_wav_headMic,9.27,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0078.wav,M05,THEY CARRIED ME OFF ON THE STRETCHER
+M05_2_0079_wav_headMic,3.485,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0079.wav,M05,SLAY
+M05_2_0081_wav_headMic,3.425,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0081.wav,M05,BRIAR
+M05_2_0082_wav_headMic,7.225,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0082.wav,M05,THEIR HOUSE IS GREY AND WHITE
+M05_2_0083_wav_headMic,2.31,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0083.wav,M05,TOOT
+M05_2_0084_wav_headMic,2.54,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0084.wav,M05,GNAW
+M05_2_0085_wav_headMic,11.42,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0085.wav,M05,THE TRAIN APPROACHED THE DEPOT SLOWLY
+M05_2_0086_wav_headMic,3.36,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0086.wav,M05,ATE
+M05_2_0087_wav_headMic,12.225,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0087.wav,M05,ARE YOUR GRADES HIGHER OR LOWER THAN NANCY'S?
+M05_2_0088_wav_headMic,9.2,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0088.wav,M05,I SCRUBBED THE FLOORS THOROUGHLY
+M05_2_0090_wav_headMic,2.495,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0090.wav,M05,SIGH
+M05_2_0091_wav_headMic,10.24,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0091.wav,M05,NOTHING IS AS OFFENSIVE AS INNOCENCE
+M05_2_0092_wav_headMic,3.245,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0092.wav,M05,MENU
+M05_2_0095_wav_headMic,2.15,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0095.wav,M05,TIE
+M05_2_0096_wav_headMic,2.71,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0096.wav,M05,LIP
+M05_2_0097_wav_headMic,3.195,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0097.wav,M05,LIP
+M05_2_0098_wav_headMic,3.135,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0098.wav,M05,HERE
+M05_2_0099_wav_headMic,3.54,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0099.wav,M05,SELECT
+M05_2_0100_wav_headMic,10.195,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0100.wav,M05,JANE MAY EARN MORE MONEY BY WORKING HARD
+M05_2_0103_wav_headMic,3.805,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0103.wav,M05,WITCH
+M05_2_0104_wav_headMic,3.425,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0104.wav,M05,NEAR
+M05_2_0106_wav_headMic,2.695,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0106.wav,M05,THOUGH
+M05_2_0108_wav_headMic,2.715,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0108.wav,M05,YES
+M05_2_0109_wav_headMic,2.97,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0109.wav,M05,SLIP
+M05_2_0110_wav_headMic,3.435,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0110.wav,M05,TILE
+M05_2_0111_wav_headMic,2.82,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0111.wav,M05,WISH
+M05_2_0113_wav_headMic,4.82,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0113.wav,M05,WERE
+M05_2_0114_wav_headMic,3.86,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0114.wav,M05,WE'RE
+M05_2_0116_wav_headMic,3.3750625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0116.wav,M05,SIDE
+M05_2_0119_wav_headMic,2.05,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0119.wav,M05,SLIP
+M05_2_0121_wav_headMic,3.565,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0121.wav,M05,TROOP
+M05_2_0122_wav_headMic,6.27,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0122.wav,M05,JUST ONE SIDE GOT WET
+M05_2_0123_wav_headMic,2.555,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0123.wav,M05,PLAY
+M05_2_0124_wav_headMic,6.17,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0124.wav,M05,I WAS CONSCIOUS ALL THE TIME
+M05_2_0125_wav_headMic,3.5,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0125.wav,M05,KNEW
+M05_2_0126_wav_headMic,2.625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0126.wav,M05,PEER
+M05_2_0127_wav_headMic,2.825,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0127.wav,M05,FEAR
+M05_2_0128_wav_headMic,11.365,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0128.wav,M05,TWO OTHER CASES ALSO WERE UNDER ADVISEMENT
+M05_2_0129_wav_headMic,3.065,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0129.wav,M05,BACK
+M05_2_0130_wav_headMic,8.64,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0130.wav,M05,I LOOKED UP AND NOTICED TWO OLD MEN
+M05_2_0131_wav_headMic,9.54,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0131.wav,M05,ALL THE BIG BASEBALL PLAYERS GET TRADED
+M05_2_0132_wav_headMic,2.835,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0132.wav,M05,SHOOT
+M05_2_0133_wav_headMic,3.295,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0133.wav,M05,BEAR
+M05_2_0134_wav_headMic,3.42,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0134.wav,M05,SNOOP
+M05_2_0135_wav_headMic,8.215,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0135.wav,M05,WILL ROBIN WEAR A YELLOW LILY?
+M05_2_0136_wav_headMic,2.28,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0136.wav,M05,LOOP
+M05_2_0137_wav_headMic,2.835,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0137.wav,M05,DROOP
+M05_2_0138_wav_headMic,10.57,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0138.wav,M05,YOU'D BE BETTER OFF TAKING A COLD SHOWER
+M05_2_0140_wav_headMic,3.485,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0140.wav,M05,PRETTY
+M05_2_0141_wav_headMic,6.79,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0141.wav,M05,PITTING
+M05_2_0143_wav_headMic,3.56,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0143.wav,M05,PITTING
+M05_2_0145_wav_headMic,17.3600625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0145.wav,M05,HE FURTHER PROPOSED GRANTS OF AN UNSPECIFIED SUM FOR EXPERIMENTAL HOSPITALS
+M05_2_0148_wav_headMic,2.875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0148.wav,M05,FILL
+M05_2_0149_wav_headMic,2.745,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0149.wav,M05,SIX
+M05_2_0151_wav_headMic,7.485,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0151.wav,M05,HE WRAPPED THE PACKAGE HASTILY
+M05_2_0152_wav_headMic,8.1,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0152.wav,M05,THE BOX CONTAINED THREE SWEATERS
+M05_2_0153_wav_headMic,2.17,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0153.wav,M05,HILL
+M05_2_0154_wav_headMic,2.655,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0154.wav,M05,SHY
+M05_2_0155_wav_headMic,9.58,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0155.wav,M05,THE MUSEUM HIRES MUSICIANS EVERY EVENING
+M05_2_0156_wav_headMic,2.895,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0156.wav,M05,KILO
+M05_2_0157_wav_headMic,3.05,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0157.wav,M05,START
+M05_2_0158_wav_headMic,2.52,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0158.wav,M05,BIT
+M05_2_0159_wav_headMic,3.655,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0159.wav,M05,BITTEN
+M05_2_0160_wav_headMic,3.25,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0160.wav,M05,DARN
+M05_2_0162_wav_headMic,2.86,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0162.wav,M05,FAT
+M05_2_0163_wav_headMic,9.16,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0163.wav,M05,THE LITTLE SCHOOLHOUSE STOOD EMPTY
+M05_2_0164_wav_headMic,3.575,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0164.wav,M05,LEAK
+M05_2_0165_wav_headMic,11.7,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0165.wav,M05,IT EVENTUALLY BECAME A RATHER PROUD CLAIM
+M05_2_0167_wav_headMic,3.015,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0167.wav,M05,SPIT
+M05_2_0169_wav_headMic,2.785,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0169.wav,M05,LEAK
+M05_2_0170_wav_headMic,9.965,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0170.wav,M05,I EXPECT WE'LL BOUNCE BACK THIS WEEK
+M05_2_0171_wav_headMic,4.3,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0171.wav,M05,BRAWN
+M05_2_0172_wav_headMic,3.055,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0172.wav,M05,MUCH
+M05_2_0173_wav_headMic,2.245,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0173.wav,M05,AT
+M05_2_0174_wav_headMic,3.955,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0174.wav,M05,KNITTING
+M05_2_0175_wav_headMic,2.865,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0175.wav,M05,KITTEN
+M05_2_0177_wav_headMic,3.33,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0177.wav,M05,NO
+M05_2_0178_wav_headMic,2.91,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0178.wav,M05,WITCH
+M05_2_0179_wav_headMic,10.35,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0179.wav,M05,THIS IS A PERIOD OF TRANSITION FOR ME
+M05_2_0181_wav_headMic,2.495,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0181.wav,M05,TELL
+M05_2_0183_wav_headMic,2.47,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0183.wav,M05,HAT
+M05_2_0184_wav_headMic,3.595,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0184.wav,M05,HIM
+M05_2_0185_wav_headMic,2.83,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0185.wav,M05,HUM
+M05_2_0186_wav_headMic,18.19,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0186.wav,M05,IT ALSO PROVIDES FOR FUNDS TO CLEAR SLUMS AND HELP COLLEGES BUILD DORMITORIES
+M05_2_0187_wav_headMic,4.37,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0187.wav,M05,LIMA
+M05_2_0188_wav_headMic,3.61,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0188.wav,M05,RICH
+M05_2_0189_wav_headMic,13.335,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0189.wav,M05,BEFORE THURSDAY'S EXAM REVIEW EVERY FORMULA
+M05_2_0190_wav_headMic,4.81,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0190.wav,M05,JULIET
+M05_2_0192_wav_headMic,8.565,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0192.wav,M05,SWING YOUR ARM AS HIGH AS YOU CAN
+M05_2_0194_wav_headMic,2.725,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0194.wav,M05,MIKE
+M05_2_0197_wav_headMic,7.585,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0197.wav,M05,THERE IS A TREEHOUSE UP ABOVE
+M05_2_0198_wav_headMic,3.875,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0198.wav,M05,DART
+M05_2_0200_wav_headMic,2.75,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0200.wav,M05,BLOW
+M05_2_0201_wav_headMic,5.68,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0201.wav,M05,IT WAS A GOOD WIN FOR US
+M05_2_0202_wav_headMic,2.16,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0202.wav,M05,SIGN
+M05_2_0206_wav_headMic,1.79,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0206.wav,M05,HEART
+M05_2_0207_wav_headMic,7.695,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0207.wav,M05,THE BOOKS ARE VERY EXPENSIVE
+M05_2_0208_wav_headMic,3.045,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0208.wav,M05,SITTING
+M05_2_0209_wav_headMic,1.845,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0209.wav,M05,AT
+M05_2_0210_wav_headMic,2.715,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0210.wav,M05,HARK
+M05_2_0211_wav_headMic,2.67,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0211.wav,M05,ECHO
+M05_2_0212_wav_headMic,11.0850625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0212.wav,M05,BOTH INJURIES WERE TO THE SAME LEG
+M05_2_0213_wav_headMic,7.365,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0213.wav,M05,I HAVE HAD MY BELL RUNG
+M05_2_0214_wav_headMic,2.63,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0214.wav,M05,HIM
+M05_2_0215_wav_headMic,11.275,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0215.wav,M05,IF YOU ARE LOSING WATER REPLACE IT IMMEDIATELY
+M05_2_0216_wav_headMic,9.575,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0216.wav,M05,WHEN ALL ELSE FAILS USE FORCE
+M05_2_0217_wav_headMic,3.49,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0217.wav,M05,THORN
+M05_2_0220_wav_headMic,3.245,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0220.wav,M05,PAPA
+M05_2_0222_wav_headMic,3.165,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0222.wav,M05,CAKE
+M05_2_0223_wav_headMic,3.295,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0223.wav,M05,NOVEMBER
+M05_2_0224_wav_headMic,3.23,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0224.wav,M05,CHOP
+M05_2_0225_wav_headMic,3.01,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0225.wav,M05,LAIR
+M05_2_0227_wav_headMic,2.405,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0227.wav,M05,PARK
+M05_2_0228_wav_headMic,2.78,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0228.wav,M05,SEVEN
+M05_2_0229_wav_headMic,2.59,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0229.wav,M05,SEED
+M05_2_0230_wav_headMic,3.0,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0230.wav,M05,WRITTEN
+M05_2_0231_wav_headMic,3.21,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0231.wav,M05,BLOAT
+M05_2_0232_wav_headMic,2.78,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0232.wav,M05,BARN
+M05_2_0233_wav_headMic,2.41,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0233.wav,M05,AND
+M05_2_0234_wav_headMic,2.715,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0234.wav,M05,HARP
+M05_2_0237_wav_headMic,3.825,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0237.wav,M05,SIGH
+M05_2_0238_wav_headMic,8.325,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0238.wav,M05,STUDENTS WATCHED AS HE GOT OUT
+M05_2_0239_wav_headMic,11.515,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0239.wav,M05,THE DOLPHINS SWAM AROUND OUR BOAT
+M05_2_0240_wav_headMic,3.11,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0240.wav,M05,HOTEL
+M05_2_0242_wav_headMic,19.63,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0242.wav,M05,NOTHING HAS BEEN DONE YET TO TAKE ADVANTAGE OF THE ENABLING LEGISLATION
+M05_2_0243_wav_headMic,11.145,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0243.wav,M05,NIGHT AFTER NIGHT THEY RECEIVED ANNOYING PHONE CALLS
+M05_2_0244_wav_headMic,2.73,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0244.wav,M05,PART
+M05_2_0245_wav_headMic,3.24,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0245.wav,M05,ZERO
+M05_2_0248_wav_headMic,2.62,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0248.wav,M05,SIDE
+M05_2_0250_wav_headMic,3.115,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0250.wav,M05,HEM
+M05_2_0251_wav_headMic,3.11,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0251.wav,M05,BROUGHT
+M05_2_0252_wav_headMic,3.12,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0252.wav,M05,CITY
+M05_2_0253_wav_headMic,3.055,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0253.wav,M05,LEAGUE
+M05_2_0254_wav_headMic,3.145,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0254.wav,M05,LICK
+M05_2_0255_wav_headMic,2.975,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0255.wav,M05,DARK
+M05_2_0256_wav_headMic,10.49,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0256.wav,M05,SHE WORE WARM FLEECY WOOLEN OVERALLS
+M05_2_0257_wav_headMic,3.025,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0257.wav,M05,SEEDS
+M05_2_0258_wav_headMic,3.32,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0258.wav,M05,SPAIN
+M05_2_0259_wav_headMic,2.48,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0259.wav,M05,YES
+M05_2_0260_wav_headMic,11.6000625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0260.wav,M05,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE
+M05_2_0261_wav_headMic,3.995,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0261.wav,M05,SERGEANT
+M05_2_0262_wav_headMic,3.605,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0262.wav,M05,LEAK
+M05_2_0263_wav_headMic,3.195,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0263.wav,M05,TAKE
+M05_2_0264_wav_headMic,3.34,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0264.wav,M05,LOYAL
+M05_2_0265_wav_headMic,9.915,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0265.wav,M05,CARL LIVES IN A LIVELY HOME
+M05_2_0266_wav_headMic,4.425,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0266.wav,M05,REEK
+M05_2_0268_wav_headMic,2.315,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0268.wav,M05,PIT
+M05_2_0269_wav_headMic,2.93,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0269.wav,M05,THOUGHT
+M05_2_0270_wav_headMic,3.405,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0270.wav,M05,FITTING
+M05_2_0271_wav_headMic,2.75,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0271.wav,M05,HITTING
+M05_2_0272_wav_headMic,2.985,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0272.wav,M05,LITTER
+M05_2_0274_wav_headMic,17.3300625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0274.wav,M05,THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR
+M05_2_0275_wav_headMic,7.605,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0275.wav,M05,DID DAD DO ACADEMIC BIDDING?
+M05_2_0276_wav_headMic,8.6250625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0276.wav,M05,SOME HOTELS ARE AVAILABLE NEARBY
+M05_2_0278_wav_headMic,3.645,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0278.wav,M05,XRAY
+M05_2_0279_wav_headMic,8.385,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0279.wav,M05,A GOOD ATTITUDE IS UNBEATABLE
+M05_2_0281_wav_headMic,2.635,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0281.wav,M05,AND
+M05_2_0282_wav_headMic,11.4200625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0282.wav,M05,THOSE MUSICIANS HARMONIZE MARVELOUSLY
+M05_2_0283_wav_headMic,2.905,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0283.wav,M05,SHIP
+M05_2_0284_wav_headMic,2.07,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0284.wav,M05,WIT
+M05_2_0285_wav_headMic,2.51,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0285.wav,M05,HAM
+M05_2_0287_wav_headMic,10.26,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0287.wav,M05,WHITE-CAPPED WAVES COVERED THE ENTIRE BAY
+M05_2_0288_wav_headMic,4.175,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0288.wav,M05,SITTER
+M05_2_0289_wav_headMic,3.275,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0289.wav,M05,RIGHT
+M05_2_0292_wav_headMic,8.9750625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0292.wav,M05,THE WAIT FOR WORK CAN BE VERY LONG
+M05_2_0293_wav_headMic,2.665,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0293.wav,M05,SIN
+M05_2_0294_wav_headMic,3.1,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0294.wav,M05,SIERRA
+M05_2_0295_wav_headMic,2.95,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0295.wav,M05,WICKED
+M05_2_0296_wav_headMic,2.495,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0296.wav,M05,UP
+M05_2_0297_wav_headMic,3.225,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0297.wav,M05,UNIFORM
+M05_2_0298_wav_headMic,3.29,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0298.wav,M05,SAND
+M05_2_0299_wav_headMic,3.475,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0299.wav,M05,SIN
+M05_2_0301_wav_headMic,2.164375,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0301.wav,M05,WHISKY
+M05_2_0302_wav_headMic,2.606625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0302.wav,M05,SING
+M05_2_0304_wav_headMic,2.46,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0304.wav,M05,DOWN
+M05_2_0305_wav_headMic,12.476375,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0305.wav,M05,HE REALLY CRUCIFIED HIM HE NAILED IT FOR A YARD LOSS
+M05_2_0306_wav_headMic,2.605,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0306.wav,M05,BEST
+M05_2_0308_wav_headMic,2.23,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0308.wav,M05,ROCK
+M05_2_0309_wav_headMic,2.81,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0309.wav,M05,ZIP
+M05_2_0313_wav_headMic,9.545,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0313.wav,M05,NOBODY REALLY EXPECTS TO EVACUATE
+M05_2_0314_wav_headMic,8.54,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0314.wav,M05,NOBODY REALLY EXPECTS TO EVACUATE
+M05_2_0315_wav_headMic,4.88,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0315.wav,M05,TREAD
+M05_2_0316_wav_headMic,2.67,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0316.wav,M05,YANKEE
+M05_2_0317_wav_headMic,2.64,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0317.wav,M05,BITTER
+M05_2_0318_wav_headMic,2.59,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0318.wav,M05,TANGO
+M05_2_0319_wav_headMic,2.615,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0319.wav,M05,SIP
+M05_2_0320_wav_headMic,6.1,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0320.wav,M05,WE BOUGHT A BROWN CHAIR
+M05_2_0322_wav_headMic,3.745,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0322.wav,M05,KNOT
+M05_2_0323_wav_headMic,3.205,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0323.wav,M05,DRESS
+M05_2_0325_wav_headMic,2.665,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0325.wav,M05,NED
+M05_2_0326_wav_headMic,3.42,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0326.wav,M05,CHIP
+M05_2_0327_wav_headMic,1.805,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0327.wav,M05,DREAD
+M05_2_0345_wav_headMic,1.1595625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0345.wav,M05,QUICKER
+M05_2_0362_wav_headMic,2.315,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0362.wav,M05,SELL
+M05_2_0363_wav_headMic,2.605,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0363.wav,M05,RED
+M05_2_0364_wav_headMic,2.195,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0364.wav,M05,HAND
+M05_2_0365_wav_headMic,11.625,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0365.wav,M05,IT'S FUN TO ROAST MARSHMALLOWS ON A GAS BURNER
+M05_2_0366_wav_headMic,2.565,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0366.wav,M05,FORK
+M05_2_0367_wav_headMic,7.35,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0367.wav,M05,BEING ABLE TO DANCE CAN HELP TOO
+M05_2_0368_wav_headMic,9.66,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0368.wav,M05,GET A CALICO CAT TO KEEP
+M05_2_0369_wav_headMic,8.915,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0369.wav,M05,I'M WILLING TO EXPERIMENT FOR THE FIRST TIME
+M05_2_0370_wav_headMic,6.93,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0370.wav,M05,EACH ONE VOLUNTEERED TO JUMP FIRST
+M05_2_0371_wav_headMic,2.135,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0371.wav,M05,BED
+M05_2_0372_wav_headMic,1.915,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0372.wav,M05,WITCH
+M05_2_0373_wav_headMic,3.885,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0373.wav,M05,WITCH
+M05_2_0375_wav_headMic,2.245,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0375.wav,M05,NO
+M05_2_0376_wav_headMic,3.155,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0376.wav,M05,SLICKER
+M05_2_0378_wav_headMic,2.335,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0378.wav,M05,KNOT
+M05_2_0379_wav_headMic,2.475,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0379.wav,M05,KNOT
+M05_2_0380_wav_headMic,2.065,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0380.wav,M05,DEAD
+M05_2_0381_wav_headMic,8.115,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0381.wav,M05,ALTHOUGH ALWAYS AGAIN AGAIN
+M05_2_0382_wav_headMic,7.99,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0382.wav,M05,ALTHOUGH ALWAYS ALONE WE SURVIVE
+M05_2_0383_wav_headMic,5.765,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0383.wav,M05,YOU CAN RIDE STAGECOACH
+M05_2_0384_wav_headMic,2.96,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0384.wav,M05,SINK
+M05_2_0385_wav_headMic,9.355,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0385.wav,M05,ONLY LAWYERS LOVE MILLIONAIRES
+M05_2_0386_wav_headMic,2.86,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0386.wav,M05,VICTOR
+M05_2_0388_wav_headMic,2.98,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0388.wav,M05,TICKER
+M05_2_0390_wav_headMic,5.435,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0390.wav,M05,THE HOTEL OWNER SHRUGGED
+M05_2_0391_wav_headMic,2.925,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0391.wav,M05,ONE
+M05_2_0392_wav_headMic,3.65,/home/zzho680/Speech_Data/TORGO/Dysarthric/M05/Session2/wav_headMic/0392.wav,M05,GLITTER

@@ -1,0 +1,51 @@
+ID,duration,wav,spk_id,wrd
+F01_1_0013_wav_arrayMic,1.65,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0013.wav,F01,KNOW
+F01_1_0017_wav_arrayMic,1.65,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0017.wav,F01,DOUBLE
+F01_1_0018_wav_arrayMic,1.35,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0018.wav,F01,NO
+F01_1_0025_wav_arrayMic,1.65,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0025.wav,F01,FEET
+F01_1_0027_wav_arrayMic,5.4,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0027.wav,F01,BUT HE ALWAYS ANSWERS BANANA OIL
+F01_1_0029_wav_arrayMic,1.8,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0029.wav,F01,BEAT
+F01_1_0036_wav_arrayMic,7.5,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0036.wav,F01,WE HAVE OFTEN URGED HIM TO WALK MORE AND SMOKE LESS
+F01_1_0037_wav_arrayMic,3.3,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0037.wav,F01,RAKE
+F01_1_0046_wav_arrayMic,1.8,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0046.wav,F01,CHAIR
+F01_1_0052_wav_arrayMic,1.5,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0052.wav,F01,SPARK
+F01_1_0059_wav_arrayMic,1.35,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0059.wav,F01,THE
+F01_1_0073_wav_arrayMic,1.65,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0073.wav,F01,CHAIR
+F01_1_0086_wav_arrayMic,1.5,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0086.wav,F01,GO
+F01_1_0088_wav_arrayMic,1.5,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0088.wav,F01,LEFT
+F01_1_0090_wav_arrayMic,2.1,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0090.wav,F01,TROUBLE
+F01_1_0097_wav_arrayMic,1.8,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0097.wav,F01,TRADE
+F01_1_0098_wav_arrayMic,2.4,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0098.wav,F01,RANGE
+F01_1_0109_wav_arrayMic,1.5,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0109.wav,F01,BORN
+F01_1_0113_wav_arrayMic,1.65,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0113.wav,F01,KNEW
+F01_1_0115_wav_arrayMic,1.5,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0115.wav,F01,FEED
+F01_1_0117_wav_arrayMic,0.9,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0117.wav,F01,FEED
+F01_1_0119_wav_arrayMic,1.65,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0119.wav,F01,RAIN
+F01_1_0124_wav_arrayMic,1.65,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0124.wav,F01,GADGET
+F01_1_0126_wav_arrayMic,6.15,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0126.wav,F01,HE DRESSES HIMSELF IN AN ANCIENT BLACK FROCK COAT
+F01_1_0128_wav_arrayMic,0.75,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_arrayMic/0128.wav,F01,STORM
+F01_1_0013_wav_headMic,1.302875,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0013.wav,F01,KNOW
+F01_1_0017_wav_headMic,2.41275,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0017.wav,F01,DOUBLE
+F01_1_0018_wav_headMic,2.0749375,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0018.wav,F01,NO
+F01_1_0025_wav_headMic,2.3325,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0025.wav,F01,FEET
+F01_1_0027_wav_headMic,5.261625,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0027.wav,F01,BUT HE ALWAYS ANSWERS BANANA OIL
+F01_1_0029_wav_headMic,1.5730625,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0029.wav,F01,BEAT
+F01_1_0036_wav_headMic,6.3193125,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0036.wav,F01,WE HAVE OFTEN URGED HIM TO WALK MORE AND SMOKE LESS
+F01_1_0037_wav_headMic,1.8171875,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0037.wav,F01,RAKE
+F01_1_0046_wav_headMic,1.3841875,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0046.wav,F01,CHAIR
+F01_1_0052_wav_headMic,1.4675625,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0052.wav,F01,SPARK
+F01_1_0059_wav_headMic,0.9505625,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0059.wav,F01,THE
+F01_1_0073_wav_headMic,1.1701875,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0073.wav,F01,CHAIR
+F01_1_0086_wav_headMic,1.3605,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0086.wav,F01,GO
+F01_1_0088_wav_headMic,1.4296875,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0088.wav,F01,LEFT
+F01_1_0090_wav_headMic,2.0291875,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0090.wav,F01,TROUBLE
+F01_1_0097_wav_headMic,1.481625,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0097.wav,F01,TRADE
+F01_1_0098_wav_headMic,1.308375,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0098.wav,F01,RANGE
+F01_1_0109_wav_headMic,1.6345,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0109.wav,F01,BORN
+F01_1_0113_wav_headMic,1.832625,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0113.wav,F01,KNEW
+F01_1_0115_wav_headMic,2.0803125,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0115.wav,F01,FEED
+F01_1_0117_wav_headMic,1.832625,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0117.wav,F01,FEED
+F01_1_0119_wav_headMic,1.832625,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0119.wav,F01,RAIN
+F01_1_0124_wav_headMic,2.3279375,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0124.wav,F01,GADGET
+F01_1_0126_wav_headMic,6.2408125,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0126.wav,F01,HE DRESSES HIMSELF IN AN ANCIENT BLACK FROCK COAT
+F01_1_0128_wav_headMic,2.2784375,/home/zzho680/Speech_Data/TORGO/Dysarthric/F01/Session1/wav_headMic/0128.wav,F01,STORM
