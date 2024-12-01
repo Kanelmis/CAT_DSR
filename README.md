@@ -8,7 +8,7 @@ For more implementation details of our system, please refer to our paper.
 ## Quick Start
 To get started, please follow these simple steps to install SpeechBrain first. 
 
-### install via PyPI
+### Install via PyPI
 1. Install SpeechBrain using PyPI:
 
 ```python
@@ -24,7 +24,7 @@ import speechbrain as sb
 
 #### Data configuration
 1. Download [UASPEECH](https://ieee-dataport.org/documents/uaspeech) dataset & [TORGO](https://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html) dataset.
-2. Refer to the "EXPERIMENTS" section of our paper to partition the data and configure metadata(*.csv) according to [Speechbrain](https://github.com/speechbrain/speechbrain) format. Or you can look up for appropriate partition csv files from folder ```Partitions```.
+2. Refer to the "EXPERIMENTS" section of our paper to partition the data and configure metadata(*.csv) according to [Speechbrain](https://github.com/speechbrain/speechbrain) format. Or you can look up appropriate partition CSV files from the folder ```Partitions```.
 
 #### Training SI Dysarthric Speech Recognition (DSR) model
 1. Modify the csv files in ```Partitions``` to adjust the audio path to your data storage
@@ -53,7 +53,7 @@ We tested the model performance by conducting **cross-dataset validation**.
 1. SI dysarthric models trained on UASPEECH were tested on TORGO dataset's isolated speech and continuous speech seperately
 2. SI dysarthric models trained on TROGO were tested on entire UASPEECH.
 
-Specific paritition can be found under ```Partitions/test/UASPEECH_dysarthric_test``` & ```Partitions/test/TORGO_dysarthric_test```
+Specific paritition can be found under ```Partitions/test/UASPEECH_dysarthric_test``` & ```Partitions/test/TORGO_dysarthric_test``` directories.
 
 ## Acknowledgement
-This work is based on the [Speechbrain](https://github.com/speechbrain/speechbrain) toolkit and we have modifed the original repository to better fit our task based on Conformer_Small. In addition, we would like thank the effort of researcher of UASPEECH and TORGO dataset. 
+This work is based on the [Speechbrain](https://github.com/speechbrain/speechbrain) toolkit, particularly utilizing the Conformer Small architecture. We also have adapted it to suit our specific tasks better. In addition, we want to acknowledge the researchers involved in developing the UA-Speech and TORGO datasets.
